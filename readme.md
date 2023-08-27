@@ -9,5 +9,5 @@
 <p align="center">JavaScript.</p>
 
 <h1 align="center">
-    <a href="https://our-digital-watch.netlify.app/" target="_blank">🔗 Link do projeto.</a>
+    <a href="https://bestcitacoes.netlify.app/" target="_blank">🔗 Link do projeto.</a>
 </h1>
